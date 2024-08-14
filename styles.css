@@ -1,0 +1,50 @@
+h1 {
+    font-size: 50px;
+    color: blue;;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: center;
+}
+
+.skills {
+    background-color: aliceblue;
+    height: 200px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 5px 5px rgba(54, 54, 54, 0.718);
+}
+
+#head-photo {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgba(54, 54, 54, 0.718);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
